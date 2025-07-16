@@ -1,2 +1,2 @@
 # HELP_-BOT
-code for Telegram FAQ bot 
+code for Telegram help bot  
