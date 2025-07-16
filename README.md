@@ -1,1 +1,1 @@
-this is a support Telegram bot
+this is a support Telegram bot on python
